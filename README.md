@@ -40,3 +40,11 @@ Based on the dashboard analysis:
 * **Modeling & Calculations:** DAX (Data Analysis Expressions) for custom KPI measures, time intelligence, and margin calculations
 * **UI/UX Design:** Custom Canvas Grid Layout, Executive Dark Mode Palette, Synchronized Slicers, and Custom Page Navigation
 
+---
+
+## 📁 Repository Structure
+```text
+├── Financial Sales & Profitability Summary # Raw or sample dataset files (Excel/CSV)
+├── Financial Sales dataset.xlsx   # Accompanying 5-slide presentation materials
+├── TASK 4-Dashboard.pbix # Main Power BI desktop file containing data models & UI
+└── README.md                 # Project documentation and feature guide
