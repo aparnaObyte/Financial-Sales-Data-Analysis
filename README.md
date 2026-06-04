@@ -43,8 +43,7 @@ Based on the dashboard analysis:
 ---
 
 ## 📁 Repository Structure
-```text
-├── Financial Sales & Profitability Summary # Raw or sample dataset files (Excel/CSV)
-├── Financial Sales dataset.xlsx   # Accompanying 5-slide presentation materials
-├── TASK 4-Dashboard.pbix # Main Power BI desktop file containing data models & UI
-└── README.md                 # Project documentation and feature guide
+├── Financial Sales & Profitability Summary.pptx # Accompanying 5-slide presentation materials
+├── Financial Sales dataset.xlsx                 # Raw or sample dataset files (Excel/CSV)
+├── TASK 4-Dashboard.pbix                       # Main Power BI desktop file containing data models & UI
+└── README.md                                    # Project documentation and feature guide
