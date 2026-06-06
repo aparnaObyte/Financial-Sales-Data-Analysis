@@ -57,6 +57,10 @@ An additional interactive dashboard built in **Tableau Public** using the same F
 - **Year of Date Filter:** Toggle between 2013, 2014, or both
 - Both filters apply across all worksheets simultaneously
 
+### 🔗 Live Tableau Dashboard
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/MicrosoftFinancialAnalysis_17807425563000/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 ### 🛠️ Tech Stack
 - **Tool:** Tableau Public (Free)
 - **Data:** Microsoft Financial Sample (700 rows, 16 columns)
